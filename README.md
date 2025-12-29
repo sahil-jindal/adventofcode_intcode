@@ -1,8 +1,8 @@
 # Advent of Code [![docs-badge]][docs-link]
 
-This project exists solely to complete Advent of Code 2019.
-It is intentionally brittle, non-generic, and historically accurate.
-Any reuse outside AoC 2019 is a misuse.
+* This project exists solely to complete Advent of Code 2019.
+* It is intentionally brittle, non-generic, and historically accurate.
+* Any reuse outside AoC 2019 is a misuse.
 
 ## Features
 
