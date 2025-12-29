@@ -18,7 +18,8 @@ fn main() {
 
 
     // Run selected solutions.
-    let (stars, duration) = year2019().iter()
+    let (stars, duration) = year2019()
+        .iter()
         .filter(|s| day.is_none_or(|d| d == s.day))
         .fold((0, Duration::ZERO), run_solution);
 
