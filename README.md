@@ -1,4 +1,4 @@
-# Advent of Code [![docs-badge]][docs-link]
+# Advent of Code
 
 * This project exists solely to complete Advent of Code 2019.
 * It is intentionally brittle, non-generic, and historically accurate.
